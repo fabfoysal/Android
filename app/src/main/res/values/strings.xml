@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="how_to_code_this_ui">How to code This UI?</string>
+    <string name="example_ui_excercise_linear_layout">Example_UI_Excercise_Linear_Layout?</string>
+</resources>
